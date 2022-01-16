@@ -4,3 +4,10 @@
        area e qual a figura de maior perimetro.
 
 */
+
+#include <iostream>
+using namespace std;
+int main(){
+
+return 0;
+}
